@@ -20,5 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "HelloWorldLibrary"
-include(":app")
 include(":helloworld")
