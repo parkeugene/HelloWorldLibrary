@@ -44,7 +44,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.parkeugene"  // 여기에 본인 GitHub ID
                 artifactId = "HelloWorldLibrary"
-                version = "1.0.2"
+                version = "1.0.3"
             }
         }
     }
