@@ -1,6 +1,28 @@
 # Hello World Library for Android 
 This is a simple "Hello World" library for Android, demonstrating how to create and use a basic library in an Android project.
 
+## Structure
+The library is structured as follows:
+
+```
+HelloWorldLibrary/
+├── build.gradle.kts
+├── settings.gradle.kts
+├── README.md
+└── helloworld/
+    ├── build.gradle.kts
+    └── src
+        └── main
+            └── java
+                └── kr
+                    └── co
+                        └── sakak
+                            └── haily
+                                └── helloworldlibrary
+                                    └── HelloWorld.kt
+```
+
+
 ## Usage
 To use this library in your Android project, follow these steps:
 
