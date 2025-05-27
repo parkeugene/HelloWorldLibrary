@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "kr.co.sakak.haily.helloworld"
+    namespace = "kr.co.sakak.haily.helloworldlibrary"
     compileSdk = 35
 
     defaultConfig {
